@@ -1,5 +1,7 @@
-import test from 'tape';
-import jsc from 'jsverify';
+'use strict';
+
+const test = require('tape');
+const jsc = require('jsverify');
 
 const opts = {
   tests: 100,
