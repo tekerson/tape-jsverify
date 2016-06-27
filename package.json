@@ -1,0 +1,22 @@
+{
+  "name": "tape-jsverify",
+  "version": "1.0.0",
+  "description": "Simple jsverify property based testing integration for tape testing",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tekerson/tape-jsverify.git"
+  },
+  "keywords": [
+    "property-based",
+    "test"
+  ],
+  "author": "Brenton Alker <brenton@tekerson.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "jsverify": "^0.7.1",
+    "tape": "^4.6.0"
+  }
+}
